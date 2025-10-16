@@ -27,11 +27,11 @@ Planned sample size and/or termination rule, sampling frame, known demographics 
 
 ### Materials
 
-All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+The experiment will use the original image and message stimuli from Genevsky et al. (2025). The image set consists of photographs depicting individuals in need who display either happy or sad facial expressions, representing the manipulation of image valence. Each image is paired with a brief aid message that is either positively or negatively framed, creating a 2 × 2 within-subjects factorial design that varies affective congruence between the two affective features. Stimuli will be presented on a computer screen using a program that allows participants to indicate their donation decision with a slider bar ranging from \$0.00 to \$10.00. Additional materials include task instructions, comprehension checks, demographic questions, and post-task self-reports of emotional responses.
 
 ### Procedure	
 
-Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+Participants will receive a \$10 endowment at the beginning of the session and complete 48 trials organized in a counterbalanced block design. On each trial, participants will view one image–message pair and decide how much of their endowment to donate using the slider. Each decision will be recorded as the dollar amount donated, along with response time and stimulus identifiers. Trial order within blocks will be randomized to minimize order and carryover effects. At the end of the session, one trial will be randomly selected to determine the participant’s real payout: if a donation was made on that trial, the chosen amount will be deducted from their endowment and donated to the corresponding cause; otherwise, the participant will retain the full \$10. Finally, participants will complete brief demographic and manipulation-check questionnaires assessing perceived emotional tone of the stimuli.
 
 ### Analysis Plan
 
